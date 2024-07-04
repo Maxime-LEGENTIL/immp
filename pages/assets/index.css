@@ -1,0 +1,21 @@
+#fblink:hover {
+    cursor: pointer;
+}
+
+img {
+    transition: transform 1s;
+}
+
+img:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.advantage-card {
+    transition: transform 1s;
+}
+
+.advantage-card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
